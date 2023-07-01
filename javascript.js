@@ -1,4 +1,7 @@
 let button = document.getElementById('addButton');
+let button2 = document.getElementById('addButton');
+
+
 
 show();
 // Dispaly the notes
